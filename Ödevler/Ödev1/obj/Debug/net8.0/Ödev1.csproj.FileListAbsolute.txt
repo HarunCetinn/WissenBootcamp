@@ -1,0 +1,14 @@
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\bin\Debug\net8.0\Ödev1.exe
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\bin\Debug\net8.0\Ödev1.deps.json
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\bin\Debug\net8.0\Ödev1.runtimeconfig.json
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\bin\Debug\net8.0\Ödev1.dll
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\bin\Debug\net8.0\Ödev1.pdb
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\obj\Debug\net8.0\Ödev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\obj\Debug\net8.0\Ödev1.AssemblyInfoInputs.cache
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\obj\Debug\net8.0\Ödev1.AssemblyInfo.cs
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\obj\Debug\net8.0\Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\obj\Debug\net8.0\Ödev1.dll
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\obj\Debug\net8.0\refint\Ödev1.dll
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\obj\Debug\net8.0\Ödev1.pdb
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\obj\Debug\net8.0\Ödev1.genruntimeconfig.cache
+C:\Users\harun\source\repos\WissenÖdevler\Ödev1\obj\Debug\net8.0\ref\Ödev1.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\KararYapilari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3056FA-A3F7-47DE-A684-142BE24CD2A8}|KararYapilari\\KararYapilari.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\kararyapilari\\kararyapilari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3056FA-A3F7-47DE-A684-142BE24CD2A8}|KararYapilari\\KararYapilari.csproj|solutionrelative:kararyapilari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\KararYapilari\\KararYapilari\\Program.cs",
+              "RelativeDocumentMoniker": "KararYapilari\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\KararYapilari\\KararYapilari\\Program.cs",
+              "RelativeToolTip": "KararYapilari\\Program.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAIAwwKkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T05:49:43.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

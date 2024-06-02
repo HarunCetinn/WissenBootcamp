@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApplication", "HelloWorldApplication\HelloWorldApplication.csproj", "{E3FB69F1-D496-47BE-A118-3F5C739A3FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiSayininKarresi", "IkiSayininKarresi\IkiSayininKarresi.csproj", "{7CDABB7E-4D87-4EBC-87C2-CEBFE64B608F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3FB69F1-D496-47BE-A118-3F5C739A3FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FB69F1-D496-47BE-A118-3F5C739A3FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FB69F1-D496-47BE-A118-3F5C739A3FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FB69F1-D496-47BE-A118-3F5C739A3FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDABB7E-4D87-4EBC-87C2-CEBFE64B608F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDABB7E-4D87-4EBC-87C2-CEBFE64B608F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDABB7E-4D87-4EBC-87C2-CEBFE64B608F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDABB7E-4D87-4EBC-87C2-CEBFE64B608F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E894AD00-2D68-4F77-AB1A-C3A54EF07E16}
+	EndGlobalSection
+EndGlobal
