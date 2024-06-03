@@ -140,6 +140,48 @@
 //Console.WriteLine($"Ref ile kullanılan metodu çağırdıktan sonraki değerler : {aDegeri} - {bDegeri}");
 
 #endregion
+
+
+#region RECURSİVE RONKSİYONLAR
+//Metot yada fonksiyon içerisinde metodun kendisini çağırmasına recursive metot denir. Özyinelmemeli fonksiyon
+
+//Console.Write($"Faktoriyel hesaplamak istediğiniz sayıyı giriniz : ");
+//int sayi = int.Parse( Console.ReadLine() );
+
+//decimal faktoriyelSonuc = FaktoriyelRecursive(sayi);
+
+
+
+//Console.WriteLine($"{sayi}! = {faktoriyelSonuc}");
+
+//Fibonacci Sayılarının yazdırılması
+Console.Write($"girilen sayıya kadar fibonacci dizisi oluşturulacak  : ");
+int sayi = int.Parse(Console.ReadLine());
+
+for (int i = 0; i < sayi; i++)
+{
+    Console.WriteLine(Fibonacci(i));
+}
+
+int Fibonacci(int i)
+{
+    if (i == 0)
+        return 0;
+    else if (i == 1)
+        return 1;
+    else
+        return Fibonacci(i - 1) + Fibonacci(i - 2);
+
+}
+#endregion
+decimal FaktoriyelRecursive(int sayi)
+{
+    if (sayi == 1)
+        return 1;
+    else
+        return sayi * FaktoriyelRecursive(sayi - 1);
+}
+
 bool IsPrimeNumber(int sayi)
 {
     if (sayi <= 1)

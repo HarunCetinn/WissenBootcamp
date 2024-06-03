@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\windowsform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\windowsform.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\windowsform\\windowsform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E4AF21-004D-41BD-AE18-03AF7124CB73}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form9.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form9.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form9.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form9.Designer.cs",
+              "RelativeToolTip": "WindowsForm\\Form9.Designer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:04:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form9.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form9.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form9.cs",
+              "RelativeToolTip": "WindowsForm\\Form9.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:01:42.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form9.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form9.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form9.cs [Design]",
+              "RelativeToolTip": "WindowsForm\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:58:50.806Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form8.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form8.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form8.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form8.Designer.cs",
+              "RelativeToolTip": "WindowsForm\\Form8.Designer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAgwCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:45:50.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form8.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form8.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form8.cs",
+              "RelativeToolTip": "WindowsForm\\Form8.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:45:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form8.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form8.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form8.cs [Design]",
+              "RelativeToolTip": "WindowsForm\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:44:42.597Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form7.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form7.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form7.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form7.Designer.cs",
+              "RelativeToolTip": "WindowsForm\\Form7.Designer.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowEkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:42:07.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form7.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form7.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form7.cs",
+              "RelativeToolTip": "WindowsForm\\Form7.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwDwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:12:03.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form7.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form7.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form7.cs [Design]",
+              "RelativeToolTip": "WindowsForm\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:10:30.469Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form6.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form6.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form6.cs",
+              "RelativeToolTip": "WindowsForm\\Form6.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:24:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form6.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form6.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form6.cs [Design]",
+              "RelativeToolTip": "WindowsForm\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:23:25.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form5.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form5.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form5.cs",
+              "RelativeToolTip": "WindowsForm\\Form5.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:52:09.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form4.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form4.cs",
+              "RelativeToolTip": "WindowsForm\\Form4.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:46:59.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Program.cs",
+              "RelativeToolTip": "WindowsForm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:58:37.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form5.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form5.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form5.cs [Design]",
+              "RelativeToolTip": "WindowsForm\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:46:38.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form4.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form4.cs [Design]",
+              "RelativeToolTip": "WindowsForm\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:44:55.046Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form3.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form3.cs",
+              "RelativeToolTip": "WindowsForm\\Form3.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:33:43.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form3.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsForm\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:28:40.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form2.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form2.cs",
+              "RelativeToolTip": "WindowsForm\\Form2.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T07:02:35.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form5.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form5.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form5.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form5.Designer.cs",
+              "RelativeToolTip": "WindowsForm\\Form5.Designer.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAowFIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:04:02.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WindowsForm",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\WindowsForm.csproj",
+              "RelativeDocumentMoniker": "WindowsForm\\WindowsForm.csproj",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\WindowsForm.csproj",
+              "RelativeToolTip": "WindowsForm\\WindowsForm.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T06:57:58.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form2.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsForm\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:57:41.217Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsForm\\Form1.Designer.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowEgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:18:27.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form1.cs",
+              "RelativeToolTip": "WindowsForm\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBMAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:17:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\WindowsForm\\WindowsForm\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:16:18.412Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
