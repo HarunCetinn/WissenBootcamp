@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|c:\\users\\bright.desktop-5789tgk\\source\\repos\\windowsformapp\\windowsformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55D577B6-52C7-47E5-BA47-CB4F382CDD2D}|WindowsFormApp\\WindowsFormApp.csproj|solutionrelative:windowsformapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form5.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form5.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form5.cs",
+              "RelativeToolTip": "WindowsFormApp\\Form5.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAowCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:24:51.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form5.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form5.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form5.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:18:52.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form4.Designer.cs",
+              "RelativeToolTip": "WindowsFormApp\\Form4.Designer.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowC4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:57:55.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form4.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form4.cs",
+              "RelativeToolTip": "WindowsFormApp\\Form4.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:52:48.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form4.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form4.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form4.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:45:19.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form3.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form3.cs",
+              "RelativeToolTip": "WindowsFormApp\\Form3.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAxwBgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:31:17.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form3.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form3.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form3.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:21:56.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form2.Designer.cs",
+              "RelativeToolTip": "WindowsFormApp\\Form2.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowC8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:28:04.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form2.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form2.cs",
+              "RelativeToolTip": "WindowsFormApp\\Form2.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:58:31.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Program.cs",
+              "RelativeToolTip": "WindowsFormApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:55:14.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form2.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form2.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:53:12.456Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form1.cs",
+              "RelativeToolTip": "WindowsFormApp\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:42:32.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:35:39.121Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
