@@ -8,20 +8,28 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\.nuget\\packages\\": {}
+    "C:\\Users\\harun\\.nuget\\packages\\": {},
+    "D:\\VS22 SDKS\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp.csproj",
+      "projectUniqueName": "C:\\Users\\harun\\OneDrive\\Belgeler\\GitHub\\WissenBootcamp\\İçerik\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp.csproj",
       "projectName": "WindowsFormApp",
-      "projectPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp.csproj",
-      "packagesPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\source\\repos\\WindowsFormApp\\WindowsFormApp\\obj\\",
+      "projectPath": "C:\\Users\\harun\\OneDrive\\Belgeler\\GitHub\\WissenBootcamp\\İçerik\\WindowsFormApp\\WindowsFormApp\\WindowsFormApp.csproj",
+      "packagesPath": "C:\\Users\\harun\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\harun\\OneDrive\\Belgeler\\GitHub\\WissenBootcamp\\İçerik\\WindowsFormApp\\WindowsFormApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\VS22 SDKS\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\harun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
@@ -41,11 +49,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -70,7 +73,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
