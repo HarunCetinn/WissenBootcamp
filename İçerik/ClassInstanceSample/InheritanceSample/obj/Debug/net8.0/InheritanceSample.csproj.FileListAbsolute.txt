@@ -1,0 +1,28 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\refint\InheritanceSample.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\ref\InheritanceSample.dll
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.exe
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.deps.json
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.runtimeconfig.json
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.dll
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\bin\Debug\net8.0\InheritanceSample.pdb
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.AssemblyInfoInputs.cache
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.AssemblyInfo.cs
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.csproj.CoreCompileInputs.cache
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.dll
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\refint\InheritanceSample.dll
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.pdb
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\InheritanceSample.genruntimeconfig.cache
+C:\Users\harun\OneDrive\Masaüstü\Wissen Dersler\1AKonular\ClassInstanceSample\InheritanceSample\obj\Debug\net8.0\ref\InheritanceSample.dll

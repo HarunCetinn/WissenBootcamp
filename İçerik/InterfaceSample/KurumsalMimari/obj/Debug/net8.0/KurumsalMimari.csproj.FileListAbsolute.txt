@@ -1,0 +1,14 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\bin\Debug\net8.0\KurumsalMimari.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\refint\KurumsalMimari.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\KurumsalMimari.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\InterfaceSample\KurumsalMimari\obj\Debug\net8.0\ref\KurumsalMimari.dll

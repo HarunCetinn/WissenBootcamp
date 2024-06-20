@@ -1,0 +1,14 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\bin\Debug\net8.0\InheritanceSampleAnimal.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\refint\InheritanceSampleAnimal.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\InheritanceSampleAnimal.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSampleAnimal\obj\Debug\net8.0\ref\InheritanceSampleAnimal.dll

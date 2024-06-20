@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A73887-ECB1-4FD4-9D87-9ABB224F3A55}|InheritanceSamplePerson\\InheritanceSamplePerson.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesampleperson\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A73887-ECB1-4FD4-9D87-9ABB224F3A55}|InheritanceSamplePerson\\InheritanceSamplePerson.csproj|solutionrelative:inheritancesampleperson\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A73887-ECB1-4FD4-9D87-9ABB224F3A55}|InheritanceSamplePerson\\InheritanceSamplePerson.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesampleperson\\humanresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A73887-ECB1-4FD4-9D87-9ABB224F3A55}|InheritanceSamplePerson\\InheritanceSamplePerson.csproj|solutionrelative:inheritancesampleperson\\humanresources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A73887-ECB1-4FD4-9D87-9ABB224F3A55}|InheritanceSamplePerson\\InheritanceSamplePerson.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesampleperson\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A73887-ECB1-4FD4-9D87-9ABB224F3A55}|InheritanceSamplePerson\\InheritanceSamplePerson.csproj|solutionrelative:inheritancesampleperson\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\sealdeclasssample\\yenikitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|solutionrelative:sealdeclasssample\\yenikitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\sealdeclasssample\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|solutionrelative:sealdeclasssample\\egitmen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\sealdeclasssample\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|solutionrelative:sealdeclasssample\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\sealdeclasssample\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|solutionrelative:sealdeclasssample\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\sealdeclasssample\\iletisimbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|solutionrelative:sealdeclasssample\\iletisimbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\sealdeclasssample\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|solutionrelative:sealdeclasssample\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\sealdeclasssample\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|solutionrelative:sealdeclasssample\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\sealdeclasssample\\basekitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|solutionrelative:sealdeclasssample\\basekitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\sealdeclasssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84B208D-AFAF-41EC-804A-4A37FF070FFB}|SealdeClassSample\\SealdeClassSample.csproj|solutionrelative:sealdeclasssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78A73887-ECB1-4FD4-9D87-9ABB224F3A55}|InheritanceSamplePerson\\InheritanceSamplePerson.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesampleperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A73887-ECB1-4FD4-9D87-9ABB224F3A55}|InheritanceSamplePerson\\InheritanceSamplePerson.csproj|solutionrelative:inheritancesampleperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesampleanimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|solutionrelative:inheritancesampleanimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesampleanimal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|solutionrelative:inheritancesampleanimal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesampleanimal\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|solutionrelative:inheritancesampleanimal\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesampleanimal\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|solutionrelative:inheritancesampleanimal\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesampleanimal\\helthcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9DF218-BAE8-44D3-A69A-C6A533018C24}|InheritanceSampleAnimal\\InheritanceSampleAnimal.csproj|solutionrelative:inheritancesampleanimal\\helthcare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC14929-1383-4091-AA5B-6C99F92EE109}|ClassInstanceSample\\ClassInstanceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\classinstancesample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC14929-1383-4091-AA5B-6C99F92EE109}|ClassInstanceSample\\ClassInstanceSample.csproj|solutionrelative:classinstancesample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87C512D-2CAE-4F4D-9883-67D032A40C85}|InheritanceSample\\InheritanceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesample\\tasit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87C512D-2CAE-4F4D-9883-67D032A40C85}|InheritanceSample\\InheritanceSample.csproj|solutionrelative:inheritancesample\\tasit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87C512D-2CAE-4F4D-9883-67D032A40C85}|InheritanceSample\\InheritanceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87C512D-2CAE-4F4D-9883-67D032A40C85}|InheritanceSample\\InheritanceSample.csproj|solutionrelative:inheritancesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87C512D-2CAE-4F4D-9883-67D032A40C85}|InheritanceSample\\InheritanceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\inheritancesample\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87C512D-2CAE-4F4D-9883-67D032A40C85}|InheritanceSample\\InheritanceSample.csproj|solutionrelative:inheritancesample\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC14929-1383-4091-AA5B-6C99F92EE109}|ClassInstanceSample\\ClassInstanceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\classinstancesample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC14929-1383-4091-AA5B-6C99F92EE109}|ClassInstanceSample\\ClassInstanceSample.csproj|solutionrelative:classinstancesample\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC14929-1383-4091-AA5B-6C99F92EE109}|ClassInstanceSample\\ClassInstanceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\classinstancesample\\utu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC14929-1383-4091-AA5B-6C99F92EE109}|ClassInstanceSample\\ClassInstanceSample.csproj|solutionrelative:classinstancesample\\utu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC14929-1383-4091-AA5B-6C99F92EE109}|ClassInstanceSample\\ClassInstanceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\classinstancesample\\classinstancesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC14929-1383-4091-AA5B-6C99F92EE109}|ClassInstanceSample\\ClassInstanceSample.csproj|solutionrelative:classinstancesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\ClassInstanceSample\\Animal.cs",
+              "RelativeDocumentMoniker": "ClassInstanceSample\\Animal.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\ClassInstanceSample\\Animal.cs",
+              "RelativeToolTip": "ClassInstanceSample\\Animal.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:25:15.413Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Profesor.cs",
+              "RelativeDocumentMoniker": "SealdeClassSample\\Profesor.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Profesor.cs",
+              "RelativeToolTip": "SealdeClassSample\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:09:08.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Egitmen.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Egitmen.cs",
+              "RelativeDocumentMoniker": "SealdeClassSample\\Egitmen.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Egitmen.cs",
+              "RelativeToolTip": "SealdeClassSample\\Egitmen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:08:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "SealdeClassSample\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Ogrenci.cs",
+              "RelativeToolTip": "SealdeClassSample\\Ogrenci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:04:44.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILetisimBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\ILetisimBilgileri.cs",
+              "RelativeDocumentMoniker": "SealdeClassSample\\ILetisimBilgileri.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\ILetisimBilgileri.cs",
+              "RelativeToolTip": "SealdeClassSample\\ILetisimBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:00:49.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Kisi.cs",
+              "RelativeDocumentMoniker": "SealdeClassSample\\Kisi.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Kisi.cs",
+              "RelativeToolTip": "SealdeClassSample\\Kisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:57:42.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YeniKitap.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\YeniKitap.cs",
+              "RelativeDocumentMoniker": "SealdeClassSample\\YeniKitap.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\YeniKitap.cs",
+              "RelativeToolTip": "SealdeClassSample\\YeniKitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:53:59.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Kitap.cs",
+              "RelativeDocumentMoniker": "SealdeClassSample\\Kitap.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Kitap.cs",
+              "RelativeToolTip": "SealdeClassSample\\Kitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:49:11.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseKitap.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\BaseKitap.cs",
+              "RelativeDocumentMoniker": "SealdeClassSample\\BaseKitap.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\BaseKitap.cs",
+              "RelativeToolTip": "SealdeClassSample\\BaseKitap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:46:24.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Program.cs",
+              "RelativeDocumentMoniker": "SealdeClassSample\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\SealdeClassSample\\Program.cs",
+              "RelativeToolTip": "SealdeClassSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:45:49.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HumanResources.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSamplePerson\\HumanResources.cs",
+              "RelativeDocumentMoniker": "InheritanceSamplePerson\\HumanResources.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSamplePerson\\HumanResources.cs",
+              "RelativeToolTip": "InheritanceSamplePerson\\HumanResources.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwDAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:24:46.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSamplePerson\\Account.cs",
+              "RelativeDocumentMoniker": "InheritanceSamplePerson\\Account.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSamplePerson\\Account.cs",
+              "RelativeToolTip": "InheritanceSamplePerson\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:12:41.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSamplePerson\\Human.cs",
+              "RelativeDocumentMoniker": "InheritanceSamplePerson\\Human.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSamplePerson\\Human.cs",
+              "RelativeToolTip": "InheritanceSamplePerson\\Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:09:47.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSamplePerson\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceSamplePerson\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSamplePerson\\Program.cs",
+              "RelativeToolTip": "InheritanceSamplePerson\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:09:16.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\Cat.cs",
+              "RelativeDocumentMoniker": "InheritanceSampleAnimal\\Cat.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\Cat.cs",
+              "RelativeToolTip": "InheritanceSampleAnimal\\Cat.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:11:00.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\Dog.cs",
+              "RelativeDocumentMoniker": "InheritanceSampleAnimal\\Dog.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\Dog.cs",
+              "RelativeToolTip": "InheritanceSampleAnimal\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:05:07.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HelthCare.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\HelthCare.cs",
+              "RelativeDocumentMoniker": "InheritanceSampleAnimal\\HelthCare.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\HelthCare.cs",
+              "RelativeToolTip": "InheritanceSampleAnimal\\HelthCare.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:42:47.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\Animal.cs",
+              "RelativeDocumentMoniker": "InheritanceSampleAnimal\\Animal.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\Animal.cs",
+              "RelativeToolTip": "InheritanceSampleAnimal\\Animal.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:37:42.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceSampleAnimal\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSampleAnimal\\Program.cs",
+              "RelativeToolTip": "InheritanceSampleAnimal\\Program.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T05:37:19.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSample\\Araba.cs",
+              "RelativeDocumentMoniker": "InheritanceSample\\Araba.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSample\\Araba.cs",
+              "RelativeToolTip": "InheritanceSample\\Araba.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:18:22.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tasit.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSample\\Tasit.cs",
+              "RelativeDocumentMoniker": "InheritanceSample\\Tasit.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSample\\Tasit.cs",
+              "RelativeToolTip": "InheritanceSample\\Tasit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:11:10.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSample\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceSample\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\InheritanceSample\\Program.cs",
+              "RelativeToolTip": "InheritanceSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:09:39.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\ClassInstanceSample\\Person.cs",
+              "RelativeDocumentMoniker": "ClassInstanceSample\\Person.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\ClassInstanceSample\\Person.cs",
+              "RelativeToolTip": "ClassInstanceSample\\Person.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA0wCsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:41:39.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Utu.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\ClassInstanceSample\\Utu.cs",
+              "RelativeDocumentMoniker": "ClassInstanceSample\\Utu.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\ClassInstanceSample\\Utu.cs",
+              "RelativeToolTip": "ClassInstanceSample\\Utu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:15:56.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\ClassInstanceSample\\Program.cs",
+              "RelativeDocumentMoniker": "ClassInstanceSample\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\ClassInstanceSample\\ClassInstanceSample\\Program.cs",
+              "RelativeToolTip": "ClassInstanceSample\\Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwEkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:24:40.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

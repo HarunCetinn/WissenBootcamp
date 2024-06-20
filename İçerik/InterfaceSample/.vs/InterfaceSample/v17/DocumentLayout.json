@@ -1,0 +1,430 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\kurumsalmimari\\mssqloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|solutionrelative:kurumsalmimari\\mssqloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\kurumsalmimari\\dboperationsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|solutionrelative:kurumsalmimari\\dboperationsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\kurumsalmimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|solutionrelative:kurumsalmimari\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\kurumsalmimari\\oracleoperati\u0131ns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|solutionrelative:kurumsalmimari\\oracleoperati\u0131ns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\kurumsalmimari\\idboperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10B4A7E-7408-412C-8C14-93ECFD8D7D23}|KurumsalMimari\\KurumsalMimari.csproj|solutionrelative:kurumsalmimari\\idboperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\interfacefutbolcusample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|solutionrelative:interfacefutbolcusample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\interfacefutbolcusample\\kaleci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|solutionrelative:interfacefutbolcusample\\kaleci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\interfacefutbolcusample\\defans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|solutionrelative:interfacefutbolcusample\\defans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\interfacefutbolcusample\\ifutbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|solutionrelative:interfacefutbolcusample\\ifutbolcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\interfacefutbolcusample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0C2F7DD-71F8-4736-844F-4BF67307083D}|InterfaceFutbolcuSample\\InterfaceFutbolcuSample.csproj|solutionrelative:interfacefutbolcusample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B9EC29-B07A-456B-BEDB-4BF0EAB6DD81}|InterfaceSample\\InterfaceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\interfacesample\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B9EC29-B07A-456B-BEDB-4BF0EAB6DD81}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\kisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\multipleinhertincewithinterface\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|solutionrelative:multipleinhertincewithinterface\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\multipleinhertincewithinterface\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|solutionrelative:multipleinhertincewithinterface\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\multipleinhertincewithinterface\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|solutionrelative:multipleinhertincewithinterface\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\multipleinhertincewithinterface\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|solutionrelative:multipleinhertincewithinterface\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\multipleinhertincewithinterface\\icalisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|solutionrelative:multipleinhertincewithinterface\\icalisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\multipleinhertincewithinterface\\ikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|solutionrelative:multipleinhertincewithinterface\\ikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\multipleinhertincewithinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9601575-D342-4BF5-AF4C-DBD1A1FC5A05}|MultipleInhertinceWithInterface\\MultipleInhertinceWithInterface.csproj|solutionrelative:multipleinhertincewithinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E86C0DA-BA73-4C4A-8C1B-BDCAA135B578}|PersonelINterface\\PersonelINterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\personelinterface\\ikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E86C0DA-BA73-4C4A-8C1B-BDCAA135B578}|PersonelINterface\\PersonelINterface.csproj|solutionrelative:personelinterface\\ikisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E86C0DA-BA73-4C4A-8C1B-BDCAA135B578}|PersonelINterface\\PersonelINterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\personelinterface\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E86C0DA-BA73-4C4A-8C1B-BDCAA135B578}|PersonelINterface\\PersonelINterface.csproj|solutionrelative:personelinterface\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E86C0DA-BA73-4C4A-8C1B-BDCAA135B578}|PersonelINterface\\PersonelINterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\personelinterface\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E86C0DA-BA73-4C4A-8C1B-BDCAA135B578}|PersonelINterface\\PersonelINterface.csproj|solutionrelative:personelinterface\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B9EC29-B07A-456B-BEDB-4BF0EAB6DD81}|InterfaceSample\\InterfaceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\interfacesample\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B9EC29-B07A-456B-BEDB-4BF0EAB6DD81}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B9EC29-B07A-456B-BEDB-4BF0EAB6DD81}|InterfaceSample\\InterfaceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\interfacesample\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B9EC29-B07A-456B-BEDB-4BF0EAB6DD81}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E86C0DA-BA73-4C4A-8C1B-BDCAA135B578}|PersonelINterface\\PersonelINterface.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\personelinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E86C0DA-BA73-4C4A-8C1B-BDCAA135B578}|PersonelINterface\\PersonelINterface.csproj|solutionrelative:personelinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35B9EC29-B07A-456B-BEDB-4BF0EAB6DD81}|InterfaceSample\\InterfaceSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\interfacesample\\interfacesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35B9EC29-B07A-456B-BEDB-4BF0EAB6DD81}|InterfaceSample\\InterfaceSample.csproj|solutionrelative:interfacesample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbOPerationsManager.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\DbOPerationsManager.cs",
+              "RelativeDocumentMoniker": "KurumsalMimari\\DbOPerationsManager.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\DbOPerationsManager.cs",
+              "RelativeToolTip": "KurumsalMimari\\DbOPerationsManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADgvxYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:28:15.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OracleOperati\u0131ns.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\OracleOperati\u0131ns.cs",
+              "RelativeDocumentMoniker": "KurumsalMimari\\OracleOperati\u0131ns.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\OracleOperati\u0131ns.cs",
+              "RelativeToolTip": "KurumsalMimari\\OracleOperati\u0131ns.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:22:18.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSSQLOperations.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\MSSQLOperations.cs",
+              "RelativeDocumentMoniker": "KurumsalMimari\\MSSQLOperations.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\MSSQLOperations.cs",
+              "RelativeToolTip": "KurumsalMimari\\MSSQLOperations.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:20:30.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDbOperations.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\IDbOperations.cs",
+              "RelativeDocumentMoniker": "KurumsalMimari\\IDbOperations.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\IDbOperations.cs",
+              "RelativeToolTip": "KurumsalMimari\\IDbOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:18:42.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\Program.cs",
+              "RelativeDocumentMoniker": "KurumsalMimari\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\KurumsalMimari\\Program.cs",
+              "RelativeToolTip": "KurumsalMimari\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:17:31.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfaceFutbolcuSample\\Form1.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\Form1.cs",
+              "RelativeToolTip": "InterfaceFutbolcuSample\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwCkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:14:04.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kaleci.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\Kaleci.cs",
+              "RelativeDocumentMoniker": "InterfaceFutbolcuSample\\Kaleci.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\Kaleci.cs",
+              "RelativeToolTip": "InterfaceFutbolcuSample\\Kaleci.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:04:49.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFutbolcu.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\IFutbolcu.cs",
+              "RelativeDocumentMoniker": "InterfaceFutbolcuSample\\IFutbolcu.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\IFutbolcu.cs",
+              "RelativeToolTip": "InterfaceFutbolcuSample\\IFutbolcu.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:47:05.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Defans.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\Defans.cs",
+              "RelativeDocumentMoniker": "InterfaceFutbolcuSample\\Defans.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\Defans.cs",
+              "RelativeToolTip": "InterfaceFutbolcuSample\\Defans.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:43:34.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfaceFutbolcuSample\\Form1.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceFutbolcuSample\\Form1.cs [Design]",
+              "RelativeToolTip": "InterfaceFutbolcuSample\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:31:46.122Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Yonetici.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Yonetici.cs",
+              "RelativeDocumentMoniker": "MultipleInhertinceWithInterface\\Yonetici.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Yonetici.cs",
+              "RelativeToolTip": "MultipleInhertinceWithInterface\\Yonetici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:24:56.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Robot.cs",
+              "RelativeDocumentMoniker": "MultipleInhertinceWithInterface\\Robot.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Robot.cs",
+              "RelativeToolTip": "MultipleInhertinceWithInterface\\Robot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:24:08.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Musteri.cs",
+              "RelativeDocumentMoniker": "MultipleInhertinceWithInterface\\Musteri.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Musteri.cs",
+              "RelativeToolTip": "MultipleInhertinceWithInterface\\Musteri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:23:15.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Personel.cs",
+              "RelativeDocumentMoniker": "MultipleInhertinceWithInterface\\Personel.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Personel.cs",
+              "RelativeToolTip": "MultipleInhertinceWithInterface\\Personel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:21:24.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICalisan.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\ICalisan.cs",
+              "RelativeDocumentMoniker": "MultipleInhertinceWithInterface\\ICalisan.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\ICalisan.cs",
+              "RelativeToolTip": "MultipleInhertinceWithInterface\\ICalisan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:20:06.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IKisi.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\IKisi.cs",
+              "RelativeDocumentMoniker": "MultipleInhertinceWithInterface\\IKisi.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\IKisi.cs",
+              "RelativeToolTip": "MultipleInhertinceWithInterface\\IKisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:19:09.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Program.cs",
+              "RelativeDocumentMoniker": "MultipleInhertinceWithInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\MultipleInhertinceWithInterface\\Program.cs",
+              "RelativeToolTip": "MultipleInhertinceWithInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:18:35.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Yonetici.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\PersonelINterface\\Yonetici.cs",
+              "RelativeDocumentMoniker": "PersonelINterface\\Yonetici.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\PersonelINterface\\Yonetici.cs",
+              "RelativeToolTip": "PersonelINterface\\Yonetici.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:13:33.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\PersonelINterface\\Calisan.cs",
+              "RelativeDocumentMoniker": "PersonelINterface\\Calisan.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\PersonelINterface\\Calisan.cs",
+              "RelativeToolTip": "PersonelINterface\\Calisan.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:08:28.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IKisi.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\PersonelINterface\\IKisi.cs",
+              "RelativeDocumentMoniker": "PersonelINterface\\IKisi.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\PersonelINterface\\IKisi.cs",
+              "RelativeToolTip": "PersonelINterface\\IKisi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:04:49.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\PersonelINterface\\Program.cs",
+              "RelativeDocumentMoniker": "PersonelINterface\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\PersonelINterface\\Program.cs",
+              "RelativeToolTip": "PersonelINterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:04:08.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Yonetici.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceSample\\Yonetici.cs",
+              "RelativeDocumentMoniker": "InterfaceSample\\Yonetici.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceSample\\Yonetici.cs",
+              "RelativeToolTip": "InterfaceSample\\Yonetici.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:55:48.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceSample\\Calisan.cs",
+              "RelativeDocumentMoniker": "InterfaceSample\\Calisan.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceSample\\Calisan.cs",
+              "RelativeToolTip": "InterfaceSample\\Calisan.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:51:28.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kisi.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceSample\\Kisi.cs",
+              "RelativeDocumentMoniker": "InterfaceSample\\Kisi.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceSample\\Kisi.cs",
+              "RelativeToolTip": "InterfaceSample\\Kisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:49:32.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceSample\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceSample\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\InterfaceSample\\InterfaceSample\\Program.cs",
+              "RelativeToolTip": "InterfaceSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T08:48:43.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

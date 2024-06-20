@@ -1,0 +1,14 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\bin\Debug\net8.0\InheritanceSamplePerson.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\bin\Debug\net8.0\InheritanceSamplePerson.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\bin\Debug\net8.0\InheritanceSamplePerson.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\bin\Debug\net8.0\InheritanceSamplePerson.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\bin\Debug\net8.0\InheritanceSamplePerson.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\obj\Debug\net8.0\InheritanceSamplePerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\obj\Debug\net8.0\InheritanceSamplePerson.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\obj\Debug\net8.0\InheritanceSamplePerson.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\obj\Debug\net8.0\InheritanceSamplePerson.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\obj\Debug\net8.0\InheritanceSamplePerson.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\obj\Debug\net8.0\refint\InheritanceSamplePerson.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\obj\Debug\net8.0\InheritanceSamplePerson.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\obj\Debug\net8.0\InheritanceSamplePerson.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\ClassInstanceSample\InheritanceSamplePerson\obj\Debug\net8.0\ref\InheritanceSamplePerson.dll
