@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\StaticClassSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{233E17E8-9546-4354-9F64-A3B941B4C931}|StaticClassSample\\StaticClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\staticclasssample\\staticclasssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233E17E8-9546-4354-9F64-A3B941B4C931}|StaticClassSample\\StaticClassSample.csproj|solutionrelative:staticclasssample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233E17E8-9546-4354-9F64-A3B941B4C931}|StaticClassSample\\StaticClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\staticclasssample\\staticclasssample\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233E17E8-9546-4354-9F64-A3B941B4C931}|StaticClassSample\\StaticClassSample.csproj|solutionrelative:staticclasssample\\extensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233E17E8-9546-4354-9F64-A3B941B4C931}|StaticClassSample\\StaticClassSample.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\staticclasssample\\staticclasssample\\fizikkutuphanesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233E17E8-9546-4354-9F64-A3B941B4C931}|StaticClassSample\\StaticClassSample.csproj|solutionrelative:staticclasssample\\fizikkutuphanesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtensionMethod.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\StaticClassSample\\StaticClassSample\\ExtensionMethod.cs",
+              "RelativeDocumentMoniker": "StaticClassSample\\ExtensionMethod.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\StaticClassSample\\StaticClassSample\\ExtensionMethod.cs",
+              "RelativeToolTip": "StaticClassSample\\ExtensionMethod.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:01:28.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FizikKutuphanesi.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\StaticClassSample\\StaticClassSample\\FizikKutuphanesi.cs",
+              "RelativeDocumentMoniker": "StaticClassSample\\FizikKutuphanesi.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\StaticClassSample\\StaticClassSample\\FizikKutuphanesi.cs",
+              "RelativeToolTip": "StaticClassSample\\FizikKutuphanesi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:38:10.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\StaticClassSample\\StaticClassSample\\Program.cs",
+              "RelativeDocumentMoniker": "StaticClassSample\\Program.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\StaticClassSample\\StaticClassSample\\Program.cs",
+              "RelativeToolTip": "StaticClassSample\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:37:01.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

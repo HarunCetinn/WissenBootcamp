@@ -1,0 +1,14 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\bin\Debug\net8.0\JsonSerialization.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\bin\Debug\net8.0\JsonSerialization.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\bin\Debug\net8.0\JsonSerialization.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\bin\Debug\net8.0\JsonSerialization.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\bin\Debug\net8.0\JsonSerialization.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\obj\Debug\net8.0\JsonSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\obj\Debug\net8.0\JsonSerialization.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\obj\Debug\net8.0\JsonSerialization.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\obj\Debug\net8.0\JsonSerialization.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\obj\Debug\net8.0\JsonSerialization.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\obj\Debug\net8.0\refint\JsonSerialization.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\obj\Debug\net8.0\JsonSerialization.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\obj\Debug\net8.0\JsonSerialization.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\JsonSerialization\obj\Debug\net8.0\ref\JsonSerialization.dll

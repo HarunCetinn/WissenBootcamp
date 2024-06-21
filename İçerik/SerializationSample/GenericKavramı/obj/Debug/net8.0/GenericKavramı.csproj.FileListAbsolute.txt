@@ -1,0 +1,14 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\bin\Debug\net8.0\GenericKavramı.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\bin\Debug\net8.0\GenericKavramı.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\bin\Debug\net8.0\GenericKavramı.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\bin\Debug\net8.0\GenericKavramı.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\bin\Debug\net8.0\GenericKavramı.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\obj\Debug\net8.0\GenericKavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\obj\Debug\net8.0\GenericKavramı.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\obj\Debug\net8.0\GenericKavramı.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\obj\Debug\net8.0\GenericKavramı.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\obj\Debug\net8.0\GenericKavramı.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\obj\Debug\net8.0\refint\GenericKavramı.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\obj\Debug\net8.0\GenericKavramı.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\obj\Debug\net8.0\GenericKavramı.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\GenericKavramı\obj\Debug\net8.0\ref\GenericKavramı.dll

@@ -1,0 +1,16 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\bin\Debug\net8.0-windows\PersonelOtomasyonuApp.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\bin\Debug\net8.0-windows\PersonelOtomasyonuApp.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\bin\Debug\net8.0-windows\PersonelOtomasyonuApp.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\bin\Debug\net8.0-windows\PersonelOtomasyonuApp.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\bin\Debug\net8.0-windows\PersonelOtomasyonuApp.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\PersonelOtomasyonuApp.Form1.resources
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\PersonelOtomasyonuApp.csproj.GenerateResource.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\PersonelOtomasyonuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\PersonelOtomasyonuApp.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\PersonelOtomasyonuApp.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\PersonelOtomasyonuApp.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\PersonelOtomasyonuApp.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\refint\PersonelOtomasyonuApp.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\PersonelOtomasyonuApp.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\PersonelOtomasyonuApp.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\PersonelOtomasyonuApp\obj\Debug\net8.0-windows\ref\PersonelOtomasyonuApp.dll

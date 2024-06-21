@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\SerializationSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3DE4A8-CE56-46DE-B4D2-3D04E803973D}|PersonelOtomasyonuApp\\PersonelOtomasyonuApp.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\serializationsample\\personelotomasyonuapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF3DE4A8-CE56-46DE-B4D2-3D04E803973D}|PersonelOtomasyonuApp\\PersonelOtomasyonuApp.csproj|solutionrelative:personelotomasyonuapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3DE4A8-CE56-46DE-B4D2-3D04E803973D}|PersonelOtomasyonuApp\\PersonelOtomasyonuApp.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\serializationsample\\personelotomasyonuapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3DE4A8-CE56-46DE-B4D2-3D04E803973D}|PersonelOtomasyonuApp\\PersonelOtomasyonuApp.csproj|solutionrelative:personelotomasyonuapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3DE4A8-CE56-46DE-B4D2-3D04E803973D}|PersonelOtomasyonuApp\\PersonelOtomasyonuApp.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\serializationsample\\personelotomasyonuapp\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3DE4A8-CE56-46DE-B4D2-3D04E803973D}|PersonelOtomasyonuApp\\PersonelOtomasyonuApp.csproj|solutionrelative:personelotomasyonuapp\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3DE4A8-CE56-46DE-B4D2-3D04E803973D}|PersonelOtomasyonuApp\\PersonelOtomasyonuApp.csproj|c:\\users\\bright.desktop-5789tgk\\desktop\\istka - 3\\serializationsample\\personelotomasyonuapp\\unvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3DE4A8-CE56-46DE-B4D2-3D04E803973D}|PersonelOtomasyonuApp\\PersonelOtomasyonuApp.csproj|solutionrelative:personelotomasyonuapp\\unvan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\SerializationSample\\PersonelOtomasyonuApp\\Form1.cs",
+              "RelativeDocumentMoniker": "PersonelOtomasyonuApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\SerializationSample\\PersonelOtomasyonuApp\\Form1.cs [Design]",
+              "RelativeToolTip": "PersonelOtomasyonuApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:47:12.865Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\SerializationSample\\PersonelOtomasyonuApp\\Form1.cs",
+              "RelativeDocumentMoniker": "PersonelOtomasyonuApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\SerializationSample\\PersonelOtomasyonuApp\\Form1.cs",
+              "RelativeToolTip": "PersonelOtomasyonuApp\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:23:24.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unvan.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\SerializationSample\\PersonelOtomasyonuApp\\Unvan.cs",
+              "RelativeDocumentMoniker": "PersonelOtomasyonuApp\\Unvan.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\SerializationSample\\PersonelOtomasyonuApp\\Unvan.cs",
+              "RelativeToolTip": "PersonelOtomasyonuApp\\Unvan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:16:43.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\SerializationSample\\PersonelOtomasyonuApp\\Personel.cs",
+              "RelativeDocumentMoniker": "PersonelOtomasyonuApp\\Personel.cs",
+              "ToolTip": "C:\\Users\\BRIGHT.DESKTOP-5789TGK\\Desktop\\ISTKA - 3\\SerializationSample\\PersonelOtomasyonuApp\\Personel.cs",
+              "RelativeToolTip": "PersonelOtomasyonuApp\\Personel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:12:02.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

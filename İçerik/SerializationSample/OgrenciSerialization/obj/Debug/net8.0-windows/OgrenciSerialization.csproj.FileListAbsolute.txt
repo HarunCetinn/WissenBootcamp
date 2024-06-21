@@ -1,0 +1,16 @@
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\bin\Debug\net8.0-windows\OgrenciSerialization.exe
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\bin\Debug\net8.0-windows\OgrenciSerialization.deps.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\bin\Debug\net8.0-windows\OgrenciSerialization.runtimeconfig.json
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\bin\Debug\net8.0-windows\OgrenciSerialization.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\bin\Debug\net8.0-windows\OgrenciSerialization.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\OgrenciSerialization.Form1.resources
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\OgrenciSerialization.csproj.GenerateResource.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\OgrenciSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\OgrenciSerialization.AssemblyInfoInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\OgrenciSerialization.AssemblyInfo.cs
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\OgrenciSerialization.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\OgrenciSerialization.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\refint\OgrenciSerialization.dll
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\OgrenciSerialization.pdb
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\OgrenciSerialization.genruntimeconfig.cache
+C:\Users\BRIGHT.DESKTOP-5789TGK\Desktop\ISTKA - 3\SerializationSample\OgrenciSerialization\obj\Debug\net8.0-windows\ref\OgrenciSerialization.dll
